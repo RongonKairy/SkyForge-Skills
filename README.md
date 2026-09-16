@@ -60,8 +60,8 @@
 |---|---|
 | 🎬 **Viral PRO** | Channel intake + a ready-to-copy "Video Upload Format" (title, description, tags, SEO alternatives, platform links) generated from your saved channel details |
 | 📣 **Social PRO** | Cross-platform growth: channel/profile intake, competitor & viral-video analysis, content ideas, and SEO/GEO/AEO-optimized titles, descriptions, tags & hashtags for every platform at once |
-| 💼 **Proposal Generator** | High-converting freelance proposals, cover letters, follow-ups, and pricing suggestions for Upwork, Fiverr, Freelancer.com, LinkedIn, and email |
-| 🎯 **LeadPilot AI** | Company research from public info + personalized B2B outreach drafts |
+| 💼 **coming soon** | coming soon |
+| 🎯 **coming soon** | coming soon |
 | ✍️ **Advanced Copy Editor** | Grammar, punctuation, style, clarity, and readability pass on any text |
 | _More coming soon_ | New skills are added regularly — watch this repo for updates |
 
