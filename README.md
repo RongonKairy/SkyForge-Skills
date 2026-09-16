@@ -1,127 +1,151 @@
-<p align="center">
-  <img src="./assets/rongon-kairy-banner.png" alt="Rongon Kairy — SkyForge Skills" width="100%">
-</p>
-
-<h1 align="center">🛠️ SkyForge-Skills</h1>
-
-<p align="center"><b>A collection of custom Skills for Claude AI</b> — reusable instruction packages that give Claude specialized, repeatable capabilities for content creation, automation, and productivity workflows.</p>
+# ⚡ SkyForge Skills v1.0.0 — Claude AI Skill Library
 
 <p align="center">
-  <a href="https://github.com/RongonKairy/SkyForge-Skills/releases">
-    <img src="https://img.shields.io/github/v/release/RongonKairy/SkyForge-Skills?include_prereleases&label=latest%20release" alt="Latest Release">
-  </a>
-  <a href="https://github.com/RongonKairy/SkyForge-Skills/stargazers">
-    <img src="https://img.shields.io/github/stars/RongonKairy/SkyForge-Skills?style=social" alt="Stars">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License">
-  </a>
-  <img src="https://img.shields.io/badge/100%25-FREE-brightgreen" alt="Free">
+  <img src="./assets/rongon-kairy-banner.png" width="100%" alt="SkyForge Skills Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-Skills-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open--Source-Free-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%25-FREE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Works%20on-Claude.ai%20%7C%20Claude%20Code%20%7C%20Cowork-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>A growing library of ready-made Skills for Claude AI — content creation, social media growth, freelancing, and automation.<br>
+  Drop them into Claude and it instantly knows how you want each task done.<br>
+  Completely free, forever.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RongonKairy/SkyForge-Skills/releases"><b>📥 Download Latest Release</b></a> •
+  <a href="https://github.com/RongonKairy/SkyForge-Skills/issues"><b>🐛 Report an Issue</b></a> •
+  <a href="https://www.youtube.com/@PreatomYTOfficial"><b>🎬 Tutorials on YouTube</b></a>
 </p>
 
 ---
 
-## 📖 What is this repo?
+## ✨ Features
 
-**SkyForge-Skills** is a growing library of **Claude Skills** — folders containing a `SKILL.md` file (plus optional scripts, templates, and reference docs) that teach Claude how to handle a specific, recurring task exactly the way you want it done.
-
-Instead of re-explaining the same workflow every conversation, you install a skill once and Claude automatically knows:
-
-- **When** to use it (trigger conditions)
-- **What** it should produce (format, structure, tone)
-- **How** to do it, step by step (process, templates, best practices)
-
-This repo collects the skills built and maintained by **[Rongon Kairy](https://github.com/RongonKairy)** ([Preatom YT](https://www.youtube.com/@PreatomYTOfficial)) for content creation, social media growth, freelancing, and AI-powered productivity.
-
----
-
-## ⚙️ About Claude Skills (the underlying tool)
-
-[Claude](https://claude.com) is Anthropic's AI assistant. **Skills** are one of its extensibility features — a simple, portable format (a `SKILL.md` markdown file with instructions, and optionally bundled scripts/templates/assets) that can be:
-
-- Added to **Claude.ai** (web/mobile/desktop chat) to extend what Claude knows how to do for you personally
-- Used inside **Claude Code**, **Claude Cowork**, and other Claude-based tools
-- Shared and reused across projects and teams, since it's just a folder of markdown + files
-
-A skill doesn't require any coding — it's a structured set of instructions Claude reads and follows automatically whenever the trigger conditions in its description match what you're asking for.
-
-📚 Learn more: [Anthropic's Skills documentation](https://docs.claude.com)
+- ⚡ **Ready-to-Use Skills** — drop a folder in, and Claude instantly follows your exact workflow
+- 🎬 **Content Creator Tools** — video upload formatting, SEO titles/tags, channel intake & memory
+- 📱 **Social Growth Skills** — cross-platform content packages for YouTube, Facebook, Instagram, X, Telegram
+- 💼 **Freelance & Outreach Skills** — proposal generation, lead research, client messaging
+- 🧠 **Self-Documenting** — every skill ships with a clear `SKILL.md` describing exactly when and how Claude should use it
+- 🔓 **No Code Required** — skills are plain markdown + optional templates, nothing to install or compile
+- 🌍 **Works Everywhere Claude Works** — Claude.ai (web/mobile/desktop), Claude Code, Claude Cowork
+- 🆓 **100% Free & Open Source** — MIT licensed, fork it, remix it, ship it
 
 ---
 
-## 📂 Repository Structure
+## 📱 Where These Skills Work
 
-```
-SkyForge-Skills/
-├── README.md
-├── assets/
-│   └── rongon-kairy-banner.png
-├── skill-name-1/
-│   └── SKILL.md
-├── skill-name-2/
-│   ├── SKILL.md
-│   └── references/
-│       └── ...
-└── ...
-```
+| Surface | Support | How to Use |
+|---|---|---|
+| 🌐 Claude.ai (Web) | ✅ Full Support | Add the skill in your Claude settings |
+| 💻 Claude Desktop | ✅ Full Support | Same skills folder, synced automatically |
+| 📱 Claude Mobile (iOS/Android) | ✅ Full Support | Skills you've added work on the go |
+| ⌨️ Claude Code | ✅ Full Support | Drop the skill folder into your skills directory |
+| 🧑‍💻 Claude Cowork | ✅ Full Support | Works as a shared team skill |
 
-Each subfolder is a self-contained skill. Browse the folders above to see what's currently available — new skills are added regularly.
+> 💡 **No install needed for most surfaces!** Just add the `SKILL.md` folder wherever Claude's skill/capability settings let you upload one.
 
 ---
 
-## 📥 Download
+## 🧩 Available Skills
 
-Grab the latest packaged skills from the **Releases** page:
-
-### 👉 [**Download Latest Release**](https://github.com/RongonKairy/SkyForge-Skills/releases)
-
-Each release includes the skill files, ready to install into Claude.
+| Skill | Description |
+|---|---|
+| 🎬 **Viral PRO** | Channel intake + a ready-to-copy "Video Upload Format" (title, description, tags, SEO alternatives, platform links) generated from your saved channel details |
+| 📣 **Social PRO** | Cross-platform growth: channel/profile intake, competitor & viral-video analysis, content ideas, and SEO/GEO/AEO-optimized titles, descriptions, tags & hashtags for every platform at once |
+| 💼 **Proposal Generator** | High-converting freelance proposals, cover letters, follow-ups, and pricing suggestions for Upwork, Fiverr, Freelancer.com, LinkedIn, and email |
+| 🎯 **LeadPilot AI** | Company research from public info + personalized B2B outreach drafts |
+| ✍️ **Advanced Copy Editor** | Grammar, punctuation, style, clarity, and readability pass on any text |
+| _More coming soon_ | New skills are added regularly — watch this repo for updates |
 
 ---
 
-## 🚀 How to Use a Skill
+## 📣 Social PRO — Media & Channel Details
 
-1. Download or clone this repo (or grab a specific skill from a [release](https://github.com/RongonKairy/SkyForge-Skills/releases)).
-2. Add the skill folder (containing its `SKILL.md`) to your Claude setup — e.g. upload it in Claude.ai's skill/capability settings, or drop it into your Claude Code / Cowork skills directory.
-3. Start a conversation and mention what you want to do — Claude will automatically detect and use the matching skill based on its trigger description.
+The **Social PRO** (and **Viral PRO**) skills run an intake step so Claude can personalize everything it generates. Here are the live channel/media links they're built around:
+
+| Platform | Link |
+|---|---|
+| ▶️ YouTube | [@PreatomYTOfficial](https://www.youtube.com/@PreatomYTOfficial) |
+| 📘 Facebook | [facebook.com/preatomyt](https://www.facebook.com/preatomyt) |
+| 📸 Instagram | [@preatomyt](https://www.instagram.com/preatomyt/) |
+| 🐦 X (Twitter) | [@Preatom_YT](https://x.com/Preatom_YT) |
+| ✈️ Telegram | [t.me/PreatomYT](https://t.me/PreatomYT) |
+| 💻 GitHub | [Preatomytofficial](https://github.com/Preatomytofficial) |
+| 🌍 Website | [preatomyt.com](https://preatomyt.com) |
+
+**Niche:** Online earning, freelancing, AI tools, passive income, affiliate marketing, AI website builders & SaaS apps, high-income skill development.
+
+> When you run **Social PRO** or **Viral PRO** for your own channel, it asks for *your* links and niche the same way — the table above is simply this repo's own maintainer profile, used as the reference example.
+
+---
+
+## 🚀 How to Get Started
+
+### Step 1 — Grab a Skill
+👉 Browse the folders above, or [**download the latest release**](https://github.com/RongonKairy/SkyForge-Skills/releases).
+
+### Step 2 — Add It to Claude
+Open Claude's skill/capability settings (Claude.ai, Claude Code, or Cowork) → upload the skill's folder (the one containing `SKILL.md`).
+
+### Step 3 — Just Ask
+Start a normal conversation and describe what you need — Claude reads the skill's trigger conditions and uses it automatically. No special commands required.
+
+### Step 4 — Personalize Once
+For skills like **Social PRO** / **Viral PRO**, fill in the intake questionnaire the first time — Claude saves your details and reuses them in every future request.
+
+---
+
+## 💻 Clone This Repo (Optional)
 
 ```bash
 git clone https://github.com/RongonKairy/SkyForge-Skills.git
 ```
 
+> Cloning is only needed if you want to browse, edit, or contribute skills locally — you can also just download individual skill folders from a release.
+
 ---
 
-## 📦 Available Skills
+## ❓ FAQ
 
-| Skill | Description |
-|---|---|
-| _Coming soon_ | New skills are added regularly — check back or watch this repo for updates. |
+**Q: Do I need to code anything to use a skill?**
+> No. A skill is just a `SKILL.md` markdown file (plus optional templates) — Claude reads it directly.
+
+**Q: Will Claude "send" my details to Google or other AI tools?**
+> No. Skills like Social PRO/Viral PRO save your details in **Claude's own memory** so Claude remembers them across chats — that's separate from Google or any other product.
+
+**Q: Can I use these skills on mobile?**
+> Yes — any skill added to your account works across Claude.ai web, desktop, and the mobile apps.
+
+**Q: Can I edit a skill for my own niche?**
+> Absolutely — every `SKILL.md` is plain markdown. Fork the repo, edit the file, and re-add it.
+
+**Q: Is this really free?**
+> Yes, 100% free and MIT licensed — use, modify, and share.
 
 ---
 
 ## 🤝 Contributing
 
-Suggestions and improvements are welcome — open an [issue](https://github.com/RongonKairy/SkyForge-Skills/issues) or submit a pull request.
+Found a bug or want to add your own skill? Open an [issue](https://github.com/RongonKairy/SkyForge-Skills/issues) or submit a pull request.
 
 ---
 
-## 🔗 Connect
+## 📜 License
 
-<p align="left">
-  <a href="https://www.youtube.com/@PreatomYTOfficial">YouTube</a> •
-  <a href="https://www.facebook.com/preatomyt">Facebook</a> •
-  <a href="https://www.instagram.com/preatomyt/">Instagram</a> •
-  <a href="https://x.com/Preatom_YT">X (Twitter)</a> •
-  <a href="https://t.me/PreatomYT">Telegram</a> •
-  <a href="https://preatomyt.com">Website</a>
-</p>
+This project is licensed under the **MIT License** — free to use, share, and modify. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📄 License
+## 👨‍💻 Made by
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+**Rongon Kairy** — [@RongonKairy](https://github.com/RongonKairy) · [Preatom YT](https://www.youtube.com/@PreatomYTOfficial)
 
----
-
-<p align="center">Built with ⚡ by <a href="https://github.com/RongonKairy">Rongon Kairy</a></p>
+> ⭐ If you find these skills useful, please give this repo a **star** on GitHub!
