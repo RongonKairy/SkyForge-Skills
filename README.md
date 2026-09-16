@@ -60,7 +60,7 @@
 |---|---|
 | 🎬 **Viral PRO** | Channel intake + a ready-to-copy "Video Upload Format" (title, description, tags, SEO alternatives, platform links) generated from your saved channel details |
 | 📣 **Social PRO** | Cross-platform growth: channel/profile intake, competitor & viral-video analysis, content ideas, and SEO/GEO/AEO-optimized titles, descriptions, tags & hashtags for every platform at once |
-| *Advanced Copy Editor** | Grammar, punctuation, style, clarity, and readability pass on any text  |
+| ✍️ **Advanced Copy Editor** | Grammar, punctuation, style, clarity, and readability pass on any text  |
 | 🎯 **coming soon** | coming soon |
 | ✍️ **coming soon** | coming soon |
 | _More coming soon_ | New skills are added regularly — watch this repo for updates |
