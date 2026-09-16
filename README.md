@@ -1,4 +1,4 @@
-# ⚡ SkyForge Skills v1.0.0 — Claude AI Skill Library
+# ⚡ SkyForge Skills — Claude AI Skill Library
 
 <p align="center">
   <img src="./assets/rongon-kairy-banner.png" width="100%" alt="SkyForge Skills Banner" />
@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/RongonKairy/SkyForge-Skills/releases"><b>📥 Download Latest Release</b></a> •
   <a href="https://github.com/RongonKairy/SkyForge-Skills/issues"><b>🐛 Report an Issue</b></a> •
-  <a href="https://www.youtube.com/@PreatomYTOfficial"><b>🎬 Tutorials on YouTube</b></a>
+  <a href="https://www.youtube.com/@RongonKairy"><b>🎬 Tutorials on YouTube</b></a>
 </p>
 
 ---
@@ -66,22 +66,6 @@
 | _More coming soon_ | New skills are added regularly — watch this repo for updates |
 
 ---
-
-## 📣 Social PRO — Media & Channel Details
-
-The **Social PRO** (and **Viral PRO**) skills run an intake step so Claude can personalize everything it generates. Here are the live channel/media links they're built around:
-
-| Platform | Link |
-|---|---|
-| ▶️ YouTube | [@PreatomYTOfficial](https://www.youtube.com/@PreatomYTOfficial) |
-| 📘 Facebook | [facebook.com/preatomyt](https://www.facebook.com/preatomyt) |
-| 📸 Instagram | [@preatomyt](https://www.instagram.com/preatomyt/) |
-| 🐦 X (Twitter) | [@Preatom_YT](https://x.com/Preatom_YT) |
-| ✈️ Telegram | [t.me/PreatomYT](https://t.me/PreatomYT) |
-| 💻 GitHub | [Preatomytofficial](https://github.com/Preatomytofficial) |
-| 🌍 Website | [preatomyt.com](https://preatomyt.com) |
-
-**Niche:** Online earning, freelancing, AI tools, passive income, affiliate marketing, AI website builders & SaaS apps, high-income skill development.
 
 > When you run **Social PRO** or **Viral PRO** for your own channel, it asks for *your* links and niche the same way — the table above is simply this repo's own maintainer profile, used as the reference example.
 
@@ -146,6 +130,6 @@ This project is licensed under the **MIT License** — free to use, share, and m
 
 ## 👨‍💻 Made by
 
-**Rongon Kairy** — [@RongonKairy](https://github.com/RongonKairy) · [Preatom YT](https://www.youtube.com/@PreatomYTOfficial)
+**Rongon Kairy** — [@RongonKairy](https://github.com/RongonKairy)
 
 > ⭐ If you find these skills useful, please give this repo a **star** on GitHub!
