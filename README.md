@@ -1,21 +1,35 @@
-# 🛠️ SkyForge-Skills
+<p align="center">
+  <img src="./assets/rongon-kairy-banner.png" alt="Rongon Kairy — SkyForge Skills" width="100%">
+</p>
 
-**A collection of custom Skills for Claude AI** — reusable instruction packages that give Claude specialized, repeatable capabilities for content creation, automation, and productivity workflows.
+<h1 align="center">🛠️ SkyForge-Skills</h1>
 
-[![GitHub release](https://img.shields.io/github/v/release/RongonKairy/SkyForge-Skills?include_prereleases&label=latest%20release)](https://github.com/RongonKairy/SkyForge-Skills/releases)
-[![GitHub stars](https://img.shields.io/github/stars/RongonKairy/SkyForge-Skills?style=social)](https://github.com/RongonKairy/SkyForge-Skills/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<p align="center"><b>A collection of custom Skills for Claude AI</b> — reusable instruction packages that give Claude specialized, repeatable capabilities for content creation, automation, and productivity workflows.</p>
+
+<p align="center">
+  <a href="https://github.com/RongonKairy/SkyForge-Skills/releases">
+    <img src="https://img.shields.io/github/v/release/RongonKairy/SkyForge-Skills?include_prereleases&label=latest%20release" alt="Latest Release">
+  </a>
+  <a href="https://github.com/RongonKairy/SkyForge-Skills/stargazers">
+    <img src="https://img.shields.io/github/stars/RongonKairy/SkyForge-Skills?style=social" alt="Stars">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/100%25-FREE-brightgreen" alt="Free">
+</p>
 
 ---
 
 ## 📖 What is this repo?
 
-**SkyForge-Skills** is a growing library of **Claude Skills** — folders containing a `SKILL.md` file (plus optional scripts, templates, and reference docs) that teach Claude how to handle a specific, recurring task the exact way you want it done.
+**SkyForge-Skills** is a growing library of **Claude Skills** — folders containing a `SKILL.md` file (plus optional scripts, templates, and reference docs) that teach Claude how to handle a specific, recurring task exactly the way you want it done.
 
 Instead of re-explaining the same workflow every conversation, you install a skill once and Claude automatically knows:
+
 - **When** to use it (trigger conditions)
 - **What** it should produce (format, structure, tone)
-- **How** to do it step-by-step (process, templates, best practices)
+- **How** to do it, step by step (process, templates, best practices)
 
 This repo collects the skills built and maintained by **[Rongon Kairy](https://github.com/RongonKairy)** ([Preatom YT](https://www.youtube.com/@PreatomYTOfficial)) for content creation, social media growth, freelancing, and AI-powered productivity.
 
@@ -29,9 +43,9 @@ This repo collects the skills built and maintained by **[Rongon Kairy](https://g
 - Used inside **Claude Code**, **Claude Cowork**, and other Claude-based tools
 - Shared and reused across projects and teams, since it's just a folder of markdown + files
 
-A skill doesn't require any coding — it's a structured set of instructions Claude reads and follows whenever the trigger conditions in its description match what you're asking for.
+A skill doesn't require any coding — it's a structured set of instructions Claude reads and follows automatically whenever the trigger conditions in its description match what you're asking for.
 
-Learn more: [Anthropic's Skills documentation](https://docs.claude.com)
+📚 Learn more: [Anthropic's Skills documentation](https://docs.claude.com)
 
 ---
 
@@ -40,6 +54,8 @@ Learn more: [Anthropic's Skills documentation](https://docs.claude.com)
 ```
 SkyForge-Skills/
 ├── README.md
+├── assets/
+│   └── rongon-kairy-banner.png
 ├── skill-name-1/
 │   └── SKILL.md
 ├── skill-name-2/
@@ -59,7 +75,7 @@ Grab the latest packaged skills from the **Releases** page:
 
 ### 👉 [**Download Latest Release**](https://github.com/RongonKairy/SkyForge-Skills/releases)
 
-Each release includes the skill files ready to install into Claude.
+Each release includes the skill files, ready to install into Claude.
 
 ---
 
@@ -75,6 +91,14 @@ git clone https://github.com/RongonKairy/SkyForge-Skills.git
 
 ---
 
+## 📦 Available Skills
+
+| Skill | Description |
+|---|---|
+| _Coming soon_ | New skills are added regularly — check back or watch this repo for updates. |
+
+---
+
 ## 🤝 Contributing
 
 Suggestions and improvements are welcome — open an [issue](https://github.com/RongonKairy/SkyForge-Skills/issues) or submit a pull request.
@@ -83,12 +107,14 @@ Suggestions and improvements are welcome — open an [issue](https://github.com/
 
 ## 🔗 Connect
 
-- **YouTube:** [@PreatomYTOfficial](https://www.youtube.com/@PreatomYTOfficial)
-- **Facebook:** [preatomyt](https://www.facebook.com/preatomyt)
-- **Instagram:** [@preatomyt](https://www.instagram.com/preatomyt/)
-- **X (Twitter):** [@Preatom_YT](https://x.com/Preatom_YT)
-- **Telegram:** [t.me/PreatomYT](https://t.me/PreatomYT)
-- **Website:** [preatomyt.com](https://preatomyt.com)
+<p align="left">
+  <a href="https://www.youtube.com/@PreatomYTOfficial">YouTube</a> •
+  <a href="https://www.facebook.com/preatomyt">Facebook</a> •
+  <a href="https://www.instagram.com/preatomyt/">Instagram</a> •
+  <a href="https://x.com/Preatom_YT">X (Twitter)</a> •
+  <a href="https://t.me/PreatomYT">Telegram</a> •
+  <a href="https://preatomyt.com">Website</a>
+</p>
 
 ---
 
