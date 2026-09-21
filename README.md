@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/RongonKairy/SkyForge-Skills/releases"><b>📥 Download Latest Release</b></a> •
   <a href="https://github.com/RongonKairy/SkyForge-Skills/issues"><b>🐛 Report an Issue</b></a> •
-  <a href="https://www.youtube.com/@RongonKairy"><b>🎬 Tutorials on YouTube</b></a>
+  <a href="https://streamain.com/en/VZBVG4n5sf6EMuN/watch"><b>🎬 Tutorials</b></a>
 </p>
 
 ---
