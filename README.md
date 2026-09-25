@@ -63,7 +63,7 @@
 | 📣 **Social PRO** | Cross-platform growth: channel/profile intake, competitor & viral-video analysis, content ideas, and SEO/GEO/AEO-optimized titles, descriptions, tags & hashtags for every platform at once |
 | ✍️ **Advanced Copy Editor** | Grammar, punctuation, style, clarity, and readability pass on any text |
 | 🎨 **[10 Animated Website Skills](https://github.com/RongonKairy/SkyForge-Skills/releases/tag/Animated-Website-Skills.md)** | Web Design Inspiration Pack — 10 world-class animated websites broken down by animation technique, tech stack, and what to learn from each |
-| 🎨 **[10 Animated Website Design](https://github.com/RongonKairy/SkyForge-Skills/releases/tag/Animated-Website-Design.md)** | Visual Design Breakdown — the same 10 sites analyzed for color systems, typography, layout structure, and UI/UX patterns |
+| 🎨 **10 Animated Website Design** | Visual Design Breakdown — the same 10 sites analyzed for color systems, typography, layout structure, and UI/UX patterns |
 | _More coming soon_ | New skills are added regularly — watch this repo for updates |
 
 ---
