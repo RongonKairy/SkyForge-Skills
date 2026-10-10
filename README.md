@@ -73,6 +73,11 @@
 > When you run **Social PRO** or **Viral PRO** for your own channel, it asks for *your* links and niche the same way — the table above is simply this repo's own maintainer profile, used as the reference example.
 
 ---
+Free n8n workflows to automate lead generation: find, collect, and organize leads on autopilot. No coding needed.
+
+![🚀 LeadPilot-Free](assets/LeadPilot-Free.png)
+
+📥 Get Now : [`Get Now`](https://github.com/RongonKairy/LeadPilot-Free/tree/main)
 
 ## 🚀 How to Get Started
 
