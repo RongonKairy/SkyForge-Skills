@@ -65,6 +65,7 @@
 | 🎨 **10 Animated Website Skills.md** | Web Design Inspiration Pack — 10 world-class animated websites broken down by animation technique, tech stack, and what to learn from each |
 | 🎨 **10 Animated Website Design.md** | Visual Design Breakdown — the same 10 sites analyzed for color systems, typography, layout structure, and UI/UX patterns |
 | ⚡ **HookForge** | A Claude Skill that scans what's trending in your niche right now and forges each trend into a ready-to-use video opening hook. |
+| 🌐 **🎯 LeadPilot-Free Skill** | [**download the LeadPilot Skill.md**](https://github.com/RongonKairy/LeadPilot-Free#:~:text=%F0%9F%8E%AF%20LeadPilot%2DFree%20Skill). |
 | _More coming soon_ | New skills are added regularly — watch this repo for updates |
 
 ---
